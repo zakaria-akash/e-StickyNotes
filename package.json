@@ -7,6 +7,7 @@
   "homepage": "https://zakaria-akash.github.io/e-StickyNotes",
   "dependencies": {
     "fs": "0.0.1-security",
+    "gh-pages": "^4.0.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.2.0"
@@ -19,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-	"predeploy": "yarn build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": [
