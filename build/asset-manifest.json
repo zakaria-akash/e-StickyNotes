@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/e-StickyNotes/static/js/main.3a87d134.chunk.js",
+    "main.js.map": "/e-StickyNotes/static/js/main.3a87d134.chunk.js.map",
+    "runtime-main.js": "/e-StickyNotes/static/js/runtime-main.3172750c.js",
+    "runtime-main.js.map": "/e-StickyNotes/static/js/runtime-main.3172750c.js.map",
+    "static/js/2.2c8a75cb.chunk.js": "/e-StickyNotes/static/js/2.2c8a75cb.chunk.js",
+    "static/js/2.2c8a75cb.chunk.js.map": "/e-StickyNotes/static/js/2.2c8a75cb.chunk.js.map",
+    "index.html": "/e-StickyNotes/index.html",
+    "precache-manifest.b3c79d4ac738034e5cef95d197352398.js": "/e-StickyNotes/precache-manifest.b3c79d4ac738034e5cef95d197352398.js",
+    "service-worker.js": "/e-StickyNotes/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3172750c.js",
+    "static/js/2.2c8a75cb.chunk.js",
+    "static/js/main.3a87d134.chunk.js"
+  ]
+}
